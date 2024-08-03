@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "977325198232",
+    "project_id": "healthbot-14d3b",
+    "storage_bucket": "healthbot-14d3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977325198232:android:18864055f5bd4d9919b9ed",
+        "android_client_info": {
+          "package_name": "com.example.health_bot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977325198232-rh53caqv1nqlk6se7a0nl0ffp4qnfn1c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.health_bot",
+            "certificate_hash": "8c92374ba4f0d4a9a7b02b9c21c3df47cc4862fb"
+          }
+        },
+        {
+          "client_id": "977325198232-ao7f3mkt4r8o9guivocnt6bj15fdakfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQILKk7OYC56Kn666Ls_QcYMhGsXou7-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977325198232-ao7f3mkt4r8o9guivocnt6bj15fdakfo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "977325198232-nmohe7iqro2b4juiie8jtjeav1t6icso.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.healthBot"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
